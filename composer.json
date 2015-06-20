@@ -1,0 +1,25 @@
+{
+	"name": "cosmic/commastats",
+	"type": "phpbb-extension",
+	"description": "Inserts commas into phpBB stats.",
+	"homepage": "http://phpbb.me/commastats/",
+	"version": "1.0",
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Matt Eskridge",
+			"username": "Casmic",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.3",
+		"composer/installers": "~1.0"
+	},
+	"extra": {
+		"display-name": "CommaStats",
+		"soft-require": {
+			"phpbb/phpbb": ">=3.1.0"
+		}
+	}
+}
