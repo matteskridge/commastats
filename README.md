@@ -12,7 +12,7 @@ This is a simple extension which displays commas in phpBB statistics.
 
 ## Troubleshooting
 
-**Issue: Commas do not appear on the board**
+**Possible Issue: Commas do not appear on the board**
 
 1. Ensure you have JavaScript enabled.
 2. Clear the board cache via ACP -> General -> Purge the Cache -> Run now
