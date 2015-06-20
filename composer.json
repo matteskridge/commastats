@@ -2,7 +2,7 @@
 	"name": "cosmic/commastats",
 	"type": "phpbb-extension",
 	"description": "Inserts commas into phpBB stats.",
-	"homepage": "http://phpbb.me/commastats/",
+	"homepage": "https://github.com/matteskridge/commastats",
 	"version": "1.0",
 	"license": "GPL-2.0",
 	"authors": [
